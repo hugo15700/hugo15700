@@ -2,7 +2,7 @@
 
 <div class="contenu presentation">
 Bienvenue sur mon profil !<br>
-Je m'appelle Hugo, j'ai 14 ans.<br>
+Je m'appelle Hugo.<br>
 Passionné de programmation informatique, j'adore coder en Python, HTML et CSS.<br>
 Cependant, je m'intéresse à tout et j'adore découvrir de nouveaux langages.<br>
 J'apprends en autodidacte et j'aime donner vie à mes idées.
